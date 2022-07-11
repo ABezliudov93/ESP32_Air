@@ -1,3 +1,5 @@
 http://developer.alexanderklimov.ru/arduino/esp32/ 
 
 https://voltiq.ru/c/esp8266-esp32-projects/
+
+https://randomnerdtutorials.com/esp32-bluetooth-low-energy-ble-arduino-ide/
